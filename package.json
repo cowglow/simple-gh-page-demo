@@ -6,6 +6,9 @@
     "type": "git",
     "url": "/"
   },
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
   "author": "@cowglow",
   "license": "MIT",
   "dependencies": {
